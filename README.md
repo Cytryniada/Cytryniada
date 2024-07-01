@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cytryniada
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Cpp 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Interested in programming (obviously)
+- Novice C++ user
+- Currently learning C# and Python
+- Expect unreadable and chaotic code (lol)
 
 <!---
 Cytryniada/Cytryniada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
